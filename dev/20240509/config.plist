@@ -224,47 +224,21 @@
       <dict>
         <key>PciRoot(0x0)/Pci(0x2,0x0)</key>
         <dict>
-				<key>AAPL,GfxYTile</key>
- 		    <data>AQAAAA==</data>
- 		    <key>AAPL,ig-platform-id</key>
- 		    <data>Pg==</data>
- 		    <key>AAPL,slot-name</key>
- 		    <string>Built-in</string>
- 		    <key>device-id</key>
- 		    <data>mz4AAA==</data>
- 		    <key>device_type</key>
- 		    <string>Display Controller</string>
- 		    <key>dpcd-max-link-rate</key>
- 		    <data>FAAAAA==</data>
- 		    <key>enable-cflbkit</key>
- 		    <data>AQAAAA==</data>
- 		    <key>enable-dpcd-max-link-rate-fix</key>
- 		    <data>AQAAAA==</data>
- 		    <key>enable-hdmi20</key>
- 		    <data>AQAAAA==</data>
- 		    <key>enable-lspcon-support</key>
- 		    <data>AQAAAA==</data>
- 		    <key>framebuffer-con1-alldata</key>
- 		    <data>AQUJAAAEAACHAQAA</data>
- 		    <key>framebuffer-con1-enable</key>
- 		    <data>AQAAAA==</data>
- 		    <key>framebuffer-con2-alldata</key>
- 		    <data>AwQKAAAIAACHAQAA</data>
- 		    <key>framebuffer-con2-enable</key>
- 		    <data>AQAAAA==</data>
- 		    <key>framebuffer-con2-has-lspcon</key>
- 		    <data>AQAAAA==</data>
- 		    <key>framebuffer-con2-preferred-lspcon-mode</key>
- 		    <data>AQAAAA==</data>
- 		    <key>framebuffer-patch-enable</key>
- 		    <data>AQAAAA==</data>
- 		    <key>framebuffer-portcount</key>
- 		    <data>BAAAAA==</data>
- 		    <key>framebuffer-unifiedmem</key>
-        <data>AAAAwA==</data>
-        <key>model</key>
-        <string>Intel UHD Graphics 630</string>
-			</dict>
+				  <key>AAPL,ig-platform-id</key>
+          <data>AQCbPg==</data>
+          <key>device-id</key>
+          <data>mz4AAA==</data>
+          <key>framebuffer-fbmem</key>
+          <data>AACQAA==</data>
+          <key>framebuffer-patch-enable</key>
+          <data>AQAAAA==</data>
+          <key>framebuffer-stolenmem</key>
+          <data>AAAwAQ==</data>
+          <key>framebuffer-unifiedmem</key>
+          <data>AAAAgA==</data>
+          <key>model</key>
+          <string>Intel UHD Graphics 630</string>
+			  </dict>
       </dict>
       <key>Delete</key>
       <dict/>
@@ -693,7 +667,7 @@
           <key>SystemAudioVolume</key>
           <data>Rg==</data>
           <key>boot-args</key>
-          <string>-v igfxcflbklt=force smcgen=1 forceRenderStandby=0 agdpmod=pikera</string>
+          <string>-v igfxcflbklt=force smcgen=1 forceRenderStandby=0 agdpmod=pikera -cdfon</string>
           <key>csr-active-config</key>
           <data>AAAAAA==</data>
           <key>prev-lang:kbd</key>
