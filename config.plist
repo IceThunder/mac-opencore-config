@@ -224,38 +224,20 @@
 		<dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
+				<key>##framebuffer-con1-alldata</key>
+				<data>AgESAAAEAADHAwAA</data>
+				<key>##framebuffer-con2-alldata</key>
+				<data>AwESAAAEAADHAwAA</data>
 				<key>AAPL,ig-platform-id</key>
 				<data>BwCbPg==</data>
 				<key>AAPL00,override-no-connect</key>
-				<data>AP///////wAzI3ycAQAAACEdAQOiNR5g6m+xp1VMniUMUFSvzwCBwLMAlQCBgKnAgQBxQIFPAjqAGHE4LUBYLEUADyghAAAaDh8AgFEAHjAwIDcADyghAAAcZiFWqlEAHjBGjzMADyghAAAcAAAA/ABMMjQwNgogICAgICAgAbsCAx7xSgECAwQFkBITFB8jCQcHgwEAAGYDDAAQAIABHQByUdAeIG4oVQAPKCEAAB4BHQC8UtAeILgoVUAPKCEAAB4BHYDQchwWIBAsJYAPKCEAAJ4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAag==</data>
+				<data>AP///////wAQrHLQTDZCMAobAQOANx947kRVqVVNnSYPUFSlSwCzANEAcU+pQIGAd4ABAQEBVl4AoKCgKVAwIDUAKTchAAAaAAAA/wBQSEtUMjczOTBCNkwKAAAA/ABERUxMIFUyNTE1SAogAAAA/QA4Vh5xHgAKICAgICAgATICAyLxTxAFBAMCBxYBFB8SEyAhIiMJBweDAQAAZQMMACAAAjqAGHE4LUBYLCUAKTchAAAeAR2AGHEcFiBYLCUAKTchAACeAR0AclHQHiBuKFUAKTchAAAejArQiiDgLRAQPpYAKTchAAAYSD8AyoCAMEAaUBMAKTchAAAeAAAA3Q==</data>
 				<key>device-id</key>
 				<data>mz4AAA==</data>
 				<key>enable-hdmi20</key>
 				<data>AQAAAA==</data>
 				<key>enable-lspcon-support</key>
 				<data>AQAAAA==</data>
-				<key>framebuffer-con0-busid</key>
-				<data>AgAAAA==</data>
-				<key>framebuffer-con0-has-lspcon</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-con0-pipe</key>
-				<data>EgAAAA==</data>
-				<key>framebuffer-con0-preferred-lspcon-mode</key>
-				<data>AAAAAA==</data>
-				<key>framebuffer-con0-type</key>
-				<data>AAgAAA==</data>
-				<key>framebuffer-con1-busid</key>
-				<data>AgAAAA==</data>
-				<key>framebuffer-con1-enable</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-con1-has-lspcon</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-con1-pipe</key>
-				<data>EgAAAA==</data>
-				<key>framebuffer-con1-preferred-lspcon-mode</key>
-				<data>AAAAAA==</data>
-				<key>framebuffer-con1-type</key>
-				<data>AAgAAA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
